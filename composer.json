@@ -1,0 +1,15 @@
+{
+    "name": "duongntt/php-hello",
+    "description": "This is sample hello-work php.",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "nguyentientungduong",
+            "email": "nguyentientungduong@gmail.com"
+        }
+     ]
+}
